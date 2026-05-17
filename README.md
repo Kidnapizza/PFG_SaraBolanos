@@ -44,7 +44,7 @@ El objetivo del prototipo es validar una experiencia jugable basada en la tensi�
 
 ### Sistema de linterna
 
-![Sistema de linterna](Media/screenshots/flashlight_system.png)
+![Sistema de linterna](./Media/linterna.png)
 
 La linterna funciona como herramienta principal del jugador, permitiendo iluminar el entorno, gestionar la visibilidad y activar determinadas interacciones.
 
@@ -54,6 +54,11 @@ La linterna funciona como herramienta principal del jugador, permitiendo ilumina
 
 Los enemigos generan presi처n durante la exploraci처n y modifican su comportamiento en funci처n de la presencia de luz.
 
+### Puzle de ondas senoidales
+
+![Puzle](./Media/WidgetPuzle.png)
+
+Los enemigos generan presi처n durante la exploraci처n y modifican su comportamiento en funci처n de la presencia de luz.
 ### Generadores y progresi처n
 
 ![Generador](Media/screenshots/generator_puzzle.png)
