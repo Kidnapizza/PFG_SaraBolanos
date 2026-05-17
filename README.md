@@ -50,7 +50,7 @@ La linterna funciona como herramienta principal del jugador, permitiendo ilumina
 
 ### Enemigos reactivos a la luz
 
-![Enemigo](Media/screenshots/enemy_detection.png)
+![Enemigo](./Media/Enemy.png)
 
 Los enemigos generan presión durante la exploración y modifican su comportamiento en función de la presencia de luz.
 
