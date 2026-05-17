@@ -44,7 +44,7 @@ El objetivo del prototipo es validar una experiencia jugable basada en la tensiÃ
 
 ### Sistema de linterna
 
-![Sistema de linterna](./Media/linterna.png)
+![Sistema de linterna](./Media/Linterna.png)
 
 La linterna funciona como herramienta principal del jugador, permitiendo iluminar el entorno, gestionar la visibilidad y activar determinadas interacciones.
 
