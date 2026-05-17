@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# The Dimming
 
 Prototipo de videojuego 3D desarrollado en Unreal Engine 5 como Proyecto de Fin de Grado.  
 El proyecto se centra en el uso de la iluminación como mecánica principal, combinando exploración, tensión ambiental, gestión de recursos, enemigos reactivos a la luz y puzles de progresión.
