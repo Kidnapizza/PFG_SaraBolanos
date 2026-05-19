@@ -57,7 +57,8 @@ Los enemigos generan presión durante la exploración y modifican su comportamie
 ### Puzle de ondas senoidales
 
 ![Puzle](./Media/WidgetPuzle.png)
-![Puzle](./Media/VideoPuzle.mp4)
+
+[Ver vídeo del puzle](./Media/VideoPuzle.mp4)
 
 Los enemigos generan presión durante la exploración y modifican su comportamiento en función de la presencia de luz.
 ### Generadores y progresión
