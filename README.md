@@ -61,14 +61,14 @@ Los enemigos generan presión durante la exploración y modifican su comportamie
 Los enemigos generan presión durante la exploración y modifican su comportamiento en función de la presencia de luz.
 ### Generadores y progresión
 
-![Generador](Media/screenshots/Generator.png)
+![Generador](Media/Generator.png)
 
 Los generadores actúan como elementos de progresión, desbloqueando nuevas zonas tras completar determinadas interacciones o puzles.
 
 ### Nivel final
 
-![Nivel final](Media/screenshots/MAPA1.png)
-![Nivel final](Media/screenshots/Mapa2.png)
+![Nivel final](Media/MAPA1.png)
+![Nivel final](Media/Mapa2.png)
 
 El entorno combina zonas oscuras, puntos seguros iluminados y espacios de exploración diseñados para reforzar la tensión ambiental.
 
