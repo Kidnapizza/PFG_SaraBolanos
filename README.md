@@ -4,8 +4,8 @@ Prototipo de videojuego 3D desarrollado en Unreal Engine 5 como Proyecto de Fin 
 El proyecto se centra en el uso de la iluminación como mecánica principal, combinando exploración, tensión ambiental, gestión de recursos, enemigos reactivos a la luz y puzles de progresión.
 
 ## Demo
-![Video de la DEMO](./Media/VideoDEMO.mp4)
-[Ver vídeo de demostración](AQUÍ_PONES_EL_ENLACE)
+
+[Ver vídeo de demostración]((https://youtu.be/tla0wkpRDrk))
 
 También se incluyen capturas del prototipo en la sección de imágenes.
 
@@ -57,6 +57,7 @@ Los enemigos generan presión durante la exploración y modifican su comportamie
 ### Puzle de ondas senoidales
 
 ![Puzle](./Media/WidgetPuzle.png)
+![Puzle](./Media/VideoPuzle.png)
 
 Los enemigos generan presión durante la exploración y modifican su comportamiento en función de la presencia de luz.
 ### Generadores y progresión
