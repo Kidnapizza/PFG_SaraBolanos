@@ -5,7 +5,7 @@ El proyecto se centra en el uso de la iluminación como mecánica principal, com
 
 Debido al tamaño del archivo, el vídeo completo de demostración está disponible en YouTube como vídeo oculto:
 
-[Ver vídeo de demostración en YouTube](https://youtu.be/tla0wkpRDrk)
+[Ver vídeo de demostración en YouTube](https://youtu.be/78_AzkXrJ2w)
 
 También se incluyen capturas del prototipo en la sección de imágenes.
 
@@ -58,18 +58,17 @@ Los enemigos generan presión durante la exploración y modifican su comportamie
 
 ![Puzle](./Media/WidgetPuzle.png)
 
-[Ver vídeo del puzle](./Media/VideoPuzle.mp4)
-
 Los enemigos generan presión durante la exploración y modifican su comportamiento en función de la presencia de luz.
 ### Generadores y progresión
 
-![Generador](Media/screenshots/generator_puzzle.png)
+![Generador](Media/screenshots/Generator.png)
 
 Los generadores actúan como elementos de progresión, desbloqueando nuevas zonas tras completar determinadas interacciones o puzles.
 
 ### Nivel final
 
-![Nivel final](Media/screenshots/final_level.png)
+![Nivel final](Media/screenshots/MAPA1.png)
+![Nivel final](Media/screenshots/Mapa2.png)
 
 El entorno combina zonas oscuras, puntos seguros iluminados y espacios de exploración diseñados para reforzar la tensión ambiental.
 
